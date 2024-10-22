@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|solutionrelative:VectorSum\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\VectorSum.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|solutionrelative:VectorSum\\VectorSum.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\FillVector.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|solutionrelative:VectorSum\\FillVector.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\includes.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54CDCA41-F8F9-415B-BB94-5CCF285987CB}|VectorSum\\VectorSum.vcxproj|solutionrelative:VectorSum\\includes.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VectorSum.cu",
+              "DocumentMoniker": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\VectorSum.cu",
+              "RelativeDocumentMoniker": "VectorSum\\VectorSum.cu",
+              "ToolTip": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\VectorSum.cu",
+              "RelativeToolTip": "VectorSum\\VectorSum.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T18:37:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FillVector.cu",
+              "DocumentMoniker": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\FillVector.cu",
+              "RelativeDocumentMoniker": "VectorSum\\FillVector.cu",
+              "ToolTip": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\FillVector.cu",
+              "RelativeToolTip": "VectorSum\\FillVector.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T18:36:43.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "includes.cuh",
+              "DocumentMoniker": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\includes.cuh",
+              "RelativeDocumentMoniker": "VectorSum\\includes.cuh",
+              "ToolTip": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\includes.cuh",
+              "RelativeToolTip": "VectorSum\\includes.cuh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T18:36:18.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\kernel.cu",
+              "RelativeDocumentMoniker": "VectorSum\\kernel.cu",
+              "ToolTip": "C:\\Users\\vazge\\source\\repos\\HPC_Labs\\VectorSum\\VectorSum\\kernel.cu",
+              "RelativeToolTip": "VectorSum\\kernel.cu",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAGQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T18:35:11.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
